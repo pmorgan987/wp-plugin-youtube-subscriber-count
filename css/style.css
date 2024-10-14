@@ -1,0 +1,8 @@
+.ysc_container {
+    display: flex;
+    gap: 10px;
+}
+.ysc_channel_name {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
